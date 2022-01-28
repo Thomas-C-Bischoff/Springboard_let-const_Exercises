@@ -1,0 +1,13 @@
+1. What is the difference between var and let?
+    There are two main differences between var and let. The first difference if that var exists within the scope
+    of a function, while let is block scoped. The second difference is that var is capable of being both
+    reassigned and redeclared, while let can only be reassigned.
+2. What is the difference between var and const?
+    Like with var and let there are two points of difference between var and const. The first like with var and
+    let is that var exists within the scope of a function; const exists in the scope of a block. The second
+    difference is that var can be reassigned and redeclared while const can't be reassigned or redeclared.
+3. What is the difference between let and const?
+    The difference between let and const is that let can be reassinged and const cant be assigned.
+4. What is hoisting?
+    Hoisting is the process in which a var can be accessed as an undefined before it is initalized in the
+    sequence of script.
